@@ -1,4 +1,4 @@
-# divisor_graph_path_problem
+# The Roeder problem: longest s,t-path problem in the divisor graph
 
 Code for solving the Roeder problem:
 
